@@ -3,7 +3,7 @@ DIY by Mun Jun.
 
 Strictly no Plagiarise!!!!
 
-Everything inside is the things i learnt and coded by myself during creating Games 
+Everything inside is the things i learnt and coded by myself during creating Games/n 
 with my friends Chong Jia Le, Foong Gah Seng and Qi Hoong
 
 
