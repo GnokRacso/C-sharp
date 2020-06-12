@@ -25,7 +25,6 @@ public class testing : Monobehavior {
             eg，
         */
         string name = "Hehe My name is Kong Mun Jun";
-        print(name);
         
         /*
         Variables for statements:
