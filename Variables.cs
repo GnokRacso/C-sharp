@@ -24,7 +24,7 @@ public class testing : Monobehavior {
         -String (string) = character based variables
             eg，
         */
-        string name = "My name is Kong Mun Jun";
+        string name = "Hehe My name is Kong Mun Jun";
         print(name);
         
         /*
